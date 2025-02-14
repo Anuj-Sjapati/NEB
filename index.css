@@ -1,0 +1,154 @@
+/* CSS Document */
+body{
+	background-color: #FFFFFF;
+	margin: auto;
+}
+
+.topdiv{
+	background-color: #20A2CA;
+	width: auto;
+	height: 30px;
+	margin: auto;
+	padding: 1px 0 13px 70px;
+	font-size: 15px;
+}
+.header{
+background-color:#FFFFFF;
+width:1300px;
+height:120px;
+margin:auto;
+}
+.menu{
+background-color:#0489B1;
+width:100%;
+height:54px;
+margin:auto;
+}
+.insideMenu{
+	background-color: #FFFFFF;
+	width: 1300px;
+	height: 54px;
+	margin: auto;
+}
+.notice{
+background-color:white;
+width:1300px;
+height:30px;
+margin:auto;
+}
+.insideNotice{
+	background-image: url("Lnotice.JPG");
+	width: 151px;
+	height: 30px;
+	float: left;
+}
+.insideNotice2{
+	background-color: white;
+	width:1139px;
+	height: 20px;
+	float: right;
+	padding: 5px;
+
+	
+}
+.insideNotice2 p a{
+	text-decoration: none;
+	color: #20A2CA;
+}
+
+ .insideNotice2 p a:hover{
+	color: #E11518;
+}
+.box1{
+background-color:white;
+width:1300px;
+height:600px;
+margin:auto;
+}
+.box2{
+background-color:white;
+width:1300px;
+height:900px;
+margin:auto;
+}
+.footer{
+background-color:#0489B1;
+width:100%;
+height:40px;
+margin:auto;
+}
+.leftbox1{
+background-color:white;
+width:980px;
+height:600px;
+float:left;
+}
+.rightbox1{
+background-color:white;
+width:280px;
+height:600px;
+float:right;
+}
+.photobox1{
+	width: 280px;
+	height: 280px;
+	background-color:white;
+	border-width:thin;
+	border-style: solid;
+	border-color: #908484;
+	
+}
+.photobox2{
+	width: 280px;
+	height: 280px;
+	background-color: white;
+	margin-top: 20px;
+		border-width:thin;
+	border-style: solid;
+	border-color: #908484;
+}
+.leftbox2{
+background-color:white;
+width:980px;
+height:900px;
+float:left;
+}
+.line
+{
+	background-color: grey;
+	width: 980px;
+	height: 2px;
+	
+	
+}
+.line2
+{
+	background-color: grey;
+	width: 980px;
+	height: 1px
+}
+
+.rightbox2{
+background-color:white;
+width:280px;
+height:900px;
+float:right;
+}
+.dev1{
+background-color:white;
+width:980px;
+height:260px;
+float:right;
+}
+.dev2{
+background-color:white;
+width:980px;
+height:300px;
+float:left;
+}
+.dev3{
+background-color:white;
+width:980px;
+height:320px;
+float:right;
+}
